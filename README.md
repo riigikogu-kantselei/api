@@ -11,4 +11,4 @@ We differentiate between *enhancement requests* and *feature requests* in that e
 **If you want to show your support for an existing feature request, please add a [thumbs up reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments) instead of commenting  "_+1_".** This way the creator of the feature request doesn't get bombarded with notifications.
 
 #### Other support
-If you have ideas, bug reports, or any other type of technical feedback to the Chancellery of the Riigikogu that doesn't relate to the Open data API, please submit these to our [webmaster](mailto:webmaster@riigikogu.ee).
+If you have ideas, bug reports, or any other type of technical feedback to the Chancellery of the Riigikogu that doesn't relate to the Open data API, please submit these to our [gitmasters](mailto:github@riigikogu.ee).
