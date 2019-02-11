@@ -18,6 +18,7 @@ The purpose of this repository is to work as the public issue tracker for the Ch
 
 [Open tickets](https://github.com/riigikogu-kantselei/api/issues)
 
+## Contacts
 
 If you have any further questions, please do not hesitate to contact us at [riigikogu@riigikogu.ee](mailto:riigikogu@riigikogu.ee)
 
