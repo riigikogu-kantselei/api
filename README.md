@@ -10,6 +10,8 @@ When compiling the URL of a request, you must enter the start and end date param
 
 To access detailed information on a particular vote, you must use the information received in the previous example as the basis for making the next request with the service [/api/votings/{uuid}](https://api.riigikogu.ee/swagger-ui.html#/Hääletused/getVotingUsingGET). Consequently, to request detailed data on the vote on “Making a Proposal to the Government of the Republic”, you must first find the UUID of the vote from the previous reply, which is **db57ca8d-7fe4-44cb-ab47-a68e46a683d5**. The request itself would look like this: [https://api.riigikogu.ee/api/votings/db57ca8d-7fe4-44cb-ab47-a68e46a683d5?lang=et](https://api.riigikogu.ee/api/votings/db57ca8d-7fe4-44cb-ab47-a68e46a683d5?lang=et), and its output would consist of the individualised voting information of all the members of the Riigikogu.
 
+**NB:**Data earlier than 2012 may be defective. At the moment, it is not possible to download files using API.
+
 ## Bugs and Requests
 
 The purpose of this repository is to work as the public issue tracker for the Chancellery of the Riigikogu's [Open data API](https://api.riigikogu.ee/). If you've found a bug in the API, or have ideas on how we could improve it, please [create an issue](https://github.com/riigikogu-kantselei/api/issues/new). It's greatly appreciated.
